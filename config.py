@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "3818be5c4934a0d05cc1a603cad2035a")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5981080241:AAGScS4IzIykxdF_JxNL9rBRoXk4_8uNtU4") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "Anime_Hindi_dub_Channel") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 
 DB_NAME = os.environ.get("DB_NAME","TaktAsahina99")     
 
