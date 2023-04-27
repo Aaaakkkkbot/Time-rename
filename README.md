@@ -21,7 +21,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/dakshkohli23/Gojo-Rename-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Aaaakkkkbot/Time-rename">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
